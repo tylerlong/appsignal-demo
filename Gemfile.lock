@@ -5,6 +5,8 @@ GEM
       rack
       thread_safe
     rack (2.0.1)
+    sinatra (1.0)
+      rack (>= 1.0)
     thread_safe (0.3.6)
 
 PLATFORMS
@@ -12,6 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   appsignal
+  sinatra
 
 BUNDLED WITH
    1.13.6
