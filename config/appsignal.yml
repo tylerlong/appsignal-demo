@@ -1,0 +1,4 @@
+production:
+  active: true
+  push_api_key: "f8efc36b-820f-4110-9bd5-fa711414766a"
+  name: "AppSignal Demo"
